@@ -1,7 +1,7 @@
 # Script-ataque-STP-Claim-Root-Attack
 #!/usr/bin/env python3
 # STP Root Claim Attack
-# Autor: TuNombre - TuMatricula
+# Autor: Alison - 20241113
 
 from scapy.all import *
 
